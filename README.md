@@ -10,7 +10,7 @@
 
 Bu proje, İzmit'in gerçek koordinatları üzerinde konumlandırılmış otobüs ve tramvay duraklarından oluşan bir ulaşım ağını graf yapısı ile modellemektedir. Kullanıcının başlangıç ve hedef konumlarına en yakın duraklar Haversine formülü ile bulunur, ardından DFS algoritması ile tüm alternatif rotalar hesaplanarak ücret, süre ve mesafe karşılaştırması yapılır. Sistem, otobüs-tramvay aktarma noktalarını ve taksi alternatifini de desteklemektedir.
 
-**Kocaeli Üniversitesi Bilgisayar Mühendisliği — Yazılım Laboratuvarı I (PROLAB I) dersi kapsamında geliştirilmiştir.**
+
 
 ## ✨ Özellikler
 
